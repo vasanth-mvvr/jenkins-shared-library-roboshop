@@ -12,3 +12,18 @@ static final string account_ID(){
 static final string environment(){
     return "dev"
 }
+
+// def getAccountID(String environment){
+//     switch(environment){
+//         case 'dev':
+//             return "656902114881"
+//         case 'qa':
+//             return "656902114881"
+//         case 'prod':
+//             return "656902114881"
+//         case 'pre-prod':
+//             return "656902114881"
+//         default:
+//             return "nothing"
+//     }
+// }
